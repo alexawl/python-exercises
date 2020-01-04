@@ -3,3 +3,4 @@ def is_odd(my_number):
 
 
 # your code here
+my_number = 45345
